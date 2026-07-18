@@ -1,4 +1,0 @@
-[console_scripts]
-joystick_trajectory_controller = jackal_trajectory_control.joystick_trajectory_controller:main
-trajectory_follower = jackal_trajectory_control.trajectory_follower:main
-
