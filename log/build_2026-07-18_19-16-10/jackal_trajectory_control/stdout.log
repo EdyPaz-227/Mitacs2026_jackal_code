@@ -1,0 +1,22 @@
+running egg_info
+writing ../../build/jackal_trajectory_control/jackal_trajectory_control.egg-info/PKG-INFO
+writing dependency_links to ../../build/jackal_trajectory_control/jackal_trajectory_control.egg-info/dependency_links.txt
+writing entry points to ../../build/jackal_trajectory_control/jackal_trajectory_control.egg-info/entry_points.txt
+writing requirements to ../../build/jackal_trajectory_control/jackal_trajectory_control.egg-info/requires.txt
+writing top-level names to ../../build/jackal_trajectory_control/jackal_trajectory_control.egg-info/top_level.txt
+reading manifest file '../../build/jackal_trajectory_control/jackal_trajectory_control.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/jackal_trajectory_control/jackal_trajectory_control.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+running install_data
+copying launch/joystick_trajectory.launch.py -> /home/isami/jackal_ws/install/jackal_trajectory_control/share/jackal_trajectory_control/launch
+running install_egg_info
+removing '/home/isami/jackal_ws/install/jackal_trajectory_control/lib/python3.10/site-packages/jackal_trajectory_control-0.2.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/jackal_trajectory_control/jackal_trajectory_control.egg-info to /home/isami/jackal_ws/install/jackal_trajectory_control/lib/python3.10/site-packages/jackal_trajectory_control-0.2.0-py3.10.egg-info
+running install_scripts
+Installing joystick_trajectory_controller script to /home/isami/jackal_ws/install/jackal_trajectory_control/lib/jackal_trajectory_control
+Installing trajectory_follower script to /home/isami/jackal_ws/install/jackal_trajectory_control/lib/jackal_trajectory_control
+writing list of installed files to '/home/isami/jackal_ws/build/jackal_trajectory_control/install.log'

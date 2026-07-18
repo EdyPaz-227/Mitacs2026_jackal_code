@@ -1,0 +1,24 @@
+[0.601s] Invoking command in '/home/isami/jackal_ws/src/jackal_trajectory_control': PYTHONPATH=/home/isami/jackal_ws/build/jackal_trajectory_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/isami/jackal_ws/install/jackal_trajectory_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/jackal_trajectory_control build --build-base /home/isami/jackal_ws/build/jackal_trajectory_control/build install --record /home/isami/jackal_ws/build/jackal_trajectory_control/install.log --install-scripts $base/lib/jackal_trajectory_control --single-version-externally-managed install_data
+[0.843s] running egg_info
+[0.844s] writing ../../build/jackal_trajectory_control/jackal_trajectory_control.egg-info/PKG-INFO
+[0.844s] writing dependency_links to ../../build/jackal_trajectory_control/jackal_trajectory_control.egg-info/dependency_links.txt
+[0.844s] writing entry points to ../../build/jackal_trajectory_control/jackal_trajectory_control.egg-info/entry_points.txt
+[0.845s] writing requirements to ../../build/jackal_trajectory_control/jackal_trajectory_control.egg-info/requires.txt
+[0.845s] writing top-level names to ../../build/jackal_trajectory_control/jackal_trajectory_control.egg-info/top_level.txt
+[0.846s] reading manifest file '../../build/jackal_trajectory_control/jackal_trajectory_control.egg-info/SOURCES.txt'
+[0.846s] adding license file 'LICENSE'
+[0.847s] writing manifest file '../../build/jackal_trajectory_control/jackal_trajectory_control.egg-info/SOURCES.txt'
+[0.847s] running build
+[0.847s] running build_py
+[0.847s] running install
+[0.847s] running install_lib
+[0.849s] running install_data
+[0.849s] copying launch/joystick_trajectory.launch.py -> /home/isami/jackal_ws/install/jackal_trajectory_control/share/jackal_trajectory_control/launch
+[0.850s] running install_egg_info
+[0.851s] removing '/home/isami/jackal_ws/install/jackal_trajectory_control/lib/python3.10/site-packages/jackal_trajectory_control-0.2.0-py3.10.egg-info' (and everything under it)
+[0.851s] Copying ../../build/jackal_trajectory_control/jackal_trajectory_control.egg-info to /home/isami/jackal_ws/install/jackal_trajectory_control/lib/python3.10/site-packages/jackal_trajectory_control-0.2.0-py3.10.egg-info
+[0.852s] running install_scripts
+[0.870s] Installing joystick_trajectory_controller script to /home/isami/jackal_ws/install/jackal_trajectory_control/lib/jackal_trajectory_control
+[0.870s] Installing trajectory_follower script to /home/isami/jackal_ws/install/jackal_trajectory_control/lib/jackal_trajectory_control
+[0.871s] writing list of installed files to '/home/isami/jackal_ws/build/jackal_trajectory_control/install.log'
+[0.889s] Invoked command in '/home/isami/jackal_ws/src/jackal_trajectory_control' returned '0': PYTHONPATH=/home/isami/jackal_ws/build/jackal_trajectory_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/isami/jackal_ws/install/jackal_trajectory_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/jackal_trajectory_control build --build-base /home/isami/jackal_ws/build/jackal_trajectory_control/build install --record /home/isami/jackal_ws/build/jackal_trajectory_control/install.log --install-scripts $base/lib/jackal_trajectory_control --single-version-externally-managed install_data

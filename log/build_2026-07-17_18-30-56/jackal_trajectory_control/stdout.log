@@ -1,0 +1,33 @@
+running develop
+running egg_info
+creating jackal_trajectory_control.egg-info
+writing jackal_trajectory_control.egg-info/PKG-INFO
+writing dependency_links to jackal_trajectory_control.egg-info/dependency_links.txt
+writing entry points to jackal_trajectory_control.egg-info/entry_points.txt
+writing requirements to jackal_trajectory_control.egg-info/requires.txt
+writing top-level names to jackal_trajectory_control.egg-info/top_level.txt
+writing manifest file 'jackal_trajectory_control.egg-info/SOURCES.txt'
+reading manifest file 'jackal_trajectory_control.egg-info/SOURCES.txt'
+writing manifest file 'jackal_trajectory_control.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/isami/jackal_ws/install/jackal_trajectory_control/lib/python3.10/site-packages/jackal-trajectory-control.egg-link (link to .)
+Installing joystick_trajectory_controller script to /home/isami/jackal_ws/install/jackal_trajectory_control/lib/jackal_trajectory_control
+Installing trajectory_follower script to /home/isami/jackal_ws/install/jackal_trajectory_control/lib/jackal_trajectory_control
+
+Installed /home/isami/jackal_ws/build/jackal_trajectory_control
+running symlink_data
+creating /home/isami/jackal_ws/install/jackal_trajectory_control/share/ament_index
+creating /home/isami/jackal_ws/install/jackal_trajectory_control/share/ament_index/resource_index
+creating /home/isami/jackal_ws/install/jackal_trajectory_control/share/ament_index/resource_index/packages
+symbolically linking /home/isami/jackal_ws/build/jackal_trajectory_control/resource/jackal_trajectory_control -> /home/isami/jackal_ws/install/jackal_trajectory_control/share/ament_index/resource_index/packages
+symbolically linking /home/isami/jackal_ws/build/jackal_trajectory_control/package.xml -> /home/isami/jackal_ws/install/jackal_trajectory_control/share/jackal_trajectory_control
+symbolically linking /home/isami/jackal_ws/build/jackal_trajectory_control/README.md -> /home/isami/jackal_ws/install/jackal_trajectory_control/share/jackal_trajectory_control
+creating /home/isami/jackal_ws/install/jackal_trajectory_control/share/jackal_trajectory_control/launch
+symbolically linking /home/isami/jackal_ws/build/jackal_trajectory_control/launch/joystick_trajectory.launch.py -> /home/isami/jackal_ws/install/jackal_trajectory_control/share/jackal_trajectory_control/launch
+symbolically linking /home/isami/jackal_ws/build/jackal_trajectory_control/launch/trajectory.launch.py -> /home/isami/jackal_ws/install/jackal_trajectory_control/share/jackal_trajectory_control/launch
+creating /home/isami/jackal_ws/install/jackal_trajectory_control/share/jackal_trajectory_control/config
+symbolically linking /home/isami/jackal_ws/build/jackal_trajectory_control/config/trajectory.yaml -> /home/isami/jackal_ws/install/jackal_trajectory_control/share/jackal_trajectory_control/config
+symbolically linking /home/isami/jackal_ws/build/jackal_trajectory_control/config/joystick.yaml -> /home/isami/jackal_ws/install/jackal_trajectory_control/share/jackal_trajectory_control/config
+creating /home/isami/jackal_ws/install/jackal_trajectory_control/share/jackal_trajectory_control/docs
+symbolically linking /home/isami/jackal_ws/build/jackal_trajectory_control/docs/Jackal_Trajectory_Control_Cheat_Sheet_LEGACY.pdf -> /home/isami/jackal_ws/install/jackal_trajectory_control/share/jackal_trajectory_control/docs
+symbolically linking /home/isami/jackal_ws/build/jackal_trajectory_control/docs/REAL_JACKAL_GUIDE.md -> /home/isami/jackal_ws/install/jackal_trajectory_control/share/jackal_trajectory_control/docs
